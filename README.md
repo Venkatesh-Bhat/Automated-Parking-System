@@ -121,4 +121,10 @@ npm start
 ## **Output**
 
 ![Selecting Parking Spaces](output/selecting_parking_spaces.png)
-[![Identification of free spaces](output/thumbnail.png)](output/aps_output.mp4)
+
+<!-- [![Identification of free spaces](output/thumbnail.png)](output/aps_output.mp4) -->
+<video width="600" controls>
+
+  <source src="output/aps_output.mp4" type="video/mp4">
+ Identification of free spaces.
+</video>
